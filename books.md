@@ -1,0 +1,7 @@
+- http://www.incompleteideas.net/sutton/book/the-book-2nd.html
+- http://www.deeplearningbook.org/
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+- http://greenteapress.com/thinkstats2/html/index.html
+- http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html?utm_content=buffera7e56&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+- https://leanpub.com/insidethepythonvirtualmachine/
+- https://www.amazon.co.uk/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886
