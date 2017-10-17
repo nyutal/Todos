@@ -1,3 +1,4 @@
+- https://leanpub.com/insidethepythonvirtualmachine
 - http://www.incompleteideas.net/sutton/book/the-book-2nd.html
 - http://www.deeplearningbook.org/
 - https://jakevdp.github.io/PythonDataScienceHandbook/
