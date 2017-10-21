@@ -6,3 +6,4 @@
 - http://rll.berkeley.edu/deeprlcourse/
 - http://cs231n.stanford.edu/
 - https://machinelearningmastery.com/oxford-course-deep-learning-natural-language-processing/
+- https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
