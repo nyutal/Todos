@@ -8,3 +8,4 @@
 - https://www.amazon.co.uk/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886
 - https://machinelearningmastery.com/books-on-natural-language-processing/
 - https://machinelearningmastery.com/primer-neural-network-models-natural-language-processing/
+- http://beej.us/guide/bgnet/output/html/multipage/index.html
