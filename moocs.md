@@ -1,5 +1,6 @@
 - https://www.coursera.org/learn/machine-learning
 - https://classroom.udacity.com/courses/st101
+- https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0
 - https://classroom.udacity.com/courses/ud858
 - https://machinelearningmastery.com/stanford-deep-learning-for-natural-language-processing-course/
 - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
